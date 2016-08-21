@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-image: url('../image/AdamAuVanCortlandt.jpg');
+}
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -18,10 +20,6 @@ a {
 }
 a:hover {
     text-decoration: underline;
-}
-
-div.blurb {
-    background-image: url('../image/AdamAuVanCortlandt.jpg');
 }
 
 h1 {
