@@ -21,7 +21,7 @@ a:hover {
 }
 
 div.container {
-    background-image: url(image/adam_au_van_cortlandt.jpg);
+    background-image: url("image/adam_au_van_cortlandt.jpg");
 }
 }
 h1 {
