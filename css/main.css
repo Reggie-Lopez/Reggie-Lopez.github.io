@@ -2,6 +2,8 @@ div#firstcontainer {
     height: 50em;
     width: 100%;
     background-image: url('../image/AdamAuVanCortlandtstylized.jpg');
+    background-repeat: none;
+    background-size: cover;
 }
 }
 
