@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image: url('../image/AdamAuVanCortlandt.jpg');
 }
 }
 nav ul, footer ul {
@@ -25,12 +24,9 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    float: left;
 }
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -41,7 +37,4 @@ ul.posts {
     font-size: 1.5em;
 }
 
-ul.posts li {
-    list-style: none;
-}
 
