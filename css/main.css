@@ -13,7 +13,7 @@ div#firstcontainer {
     background-size: cover;
 }
 
-nav {
+nav ul {
     display: inline-block;
     font-size: 1.3em;
     font-family: serif;
