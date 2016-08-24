@@ -12,6 +12,13 @@ div#firstcontainer {
     background-repeat: none;
     background-size: cover;
 }
+
+nav {
+    display: inline-block;
+    font-size: 1.3em;
+    font-family: serif;
+    margin-left: 10px
+    margin-right: 10px;
 }
 
 
