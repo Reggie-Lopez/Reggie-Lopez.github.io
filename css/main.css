@@ -16,6 +16,7 @@ div#firstcontainer {
 
 nav ul li {
     display: inline;
+    align: right;
     font-size: 1.3em;
     font-family: serif;
     margin-right: 20px;
