@@ -14,7 +14,7 @@ div#firstcontainer {
     background-size: cover;
 }
 
-nav {
+nav ul li {
     display: inline;
     font-size: 1.3em;
     font-family: serif;
