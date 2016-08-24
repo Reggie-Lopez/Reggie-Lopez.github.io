@@ -5,7 +5,7 @@ html, body {
     outline: 0px;
 }
 
-div#firstcontainer {
+#firstcontainer {
     height: 45em;
     width: 100%;
     margin: 0px;
