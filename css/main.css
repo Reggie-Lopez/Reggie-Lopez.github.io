@@ -14,11 +14,10 @@ div#firstcontainer {
 }
 
 nav ul {
-    display: inline-block;
+    display: inline;
     font-size: 1.3em;
     font-family: serif;
-    margin-left: 10px
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 
