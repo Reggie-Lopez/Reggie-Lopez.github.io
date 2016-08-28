@@ -1,4 +1,4 @@
-html body {
+html {
     margin: 0px;
     padding: 0px;
     border: 0px;
@@ -20,7 +20,7 @@ html body {
     }
 
 nav ul li {
-    display: inline;
+    display: inline-block;
     text-align: right;
     font-size: 1.3em;
     font-family: serif;
