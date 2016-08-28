@@ -21,16 +21,18 @@ nav {
     background: none;
     
     }
-nav ul {
+ul {
     display: inline;
+    list-style-type: none;
 }
     
     }
 
-nav li {
+li {
     text-align: right;
     font-size: 1.3em;
     font-family: serif;
+    width: 3.3em;
     margin-right: 20px;
     margin-top: 0px;
 }
