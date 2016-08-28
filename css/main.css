@@ -13,15 +13,16 @@ html {
     background-repeat: none;
     background-size: cover;
     }
-    nav {
-        float: right;
-        display: inline-block;
+nav {
+    float: right;
     }
+nav ul {
+    display: inline-block;
+}
     
     }
 
-nav ul li {
-    display: inline-block;
+nav li {
     text-align: right;
     font-size: 1.3em;
     font-family: serif;
