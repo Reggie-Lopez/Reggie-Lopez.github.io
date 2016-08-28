@@ -22,7 +22,7 @@ nav {
     
     }
 ul {
-    display: inline;
+    display: inline-block;
     list-style-type: none;
 }
 
