@@ -22,11 +22,11 @@ nav {
     
     }
 ul {
-    display: inline-block;
     list-style-type: none;
 }
 
-li {
+nav li {
+    display: inline-block;
     text-align: right;
     font-size: 1.3em;
     font-family: serif;
