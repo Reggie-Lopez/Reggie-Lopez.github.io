@@ -16,11 +16,13 @@
     background-repeat: none;
     background-size: cover;
     }
+    
 nav {
-    float: right;
+    background: none;
+    
     }
 nav ul {
-    display: inline-block;
+    display: inline;
 }
     
     }
