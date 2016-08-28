@@ -12,7 +12,9 @@ html, body {
     background-image: url('../image/AdamAuVanCortlandtstylized.jpg');
     background-repeat: none;
     background-size: cover;
-    float: right;
+    }
+    nav {
+        float: right;
     }
     
     }
