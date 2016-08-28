@@ -14,15 +14,11 @@ html, body {
     background-size: cover;
     }
     
-    nav {
-        align: right;
-        
-    }
     }
 
 nav ul li {
     display: inline;
-    align: right;
+    text-align: right;
     font-size: 1.3em;
     font-family: serif;
     margin-right: 20px;
