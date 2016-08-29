@@ -27,12 +27,16 @@ ul {
 
 nav li {
     display: inline-block;
-    text-align: right;
-    font-size: 1.3em;
-    font-family: serif;
+    text-align: center;
+    font-size: 2em;
+    font-family: Helvetica;
     width: 20px;
-    margin-right: 20px;
+    margin-right: 80px;
     margin-top: 0px;
+    float: right;
+    text-decoration: none;
+    color: #000000;
+    
 }
 
 
