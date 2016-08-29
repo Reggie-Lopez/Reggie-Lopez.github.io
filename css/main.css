@@ -37,6 +37,17 @@ nav li {
     
 }
 
+nav li:hover {
+        background-color: black;
+        color: white;
+}
+
+nav li:visited {
+        text-decoration: none;
+        color: white;
+        
+}
+
 
 
 
